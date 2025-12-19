@@ -1,0 +1,5 @@
+{
+  "name": "Bulk CSV Processor",
+  "description": "A high-performance client-side application for batch processing CSV files across different categories (Books, Toys, Fashion, Essentials) with instant ZIP download.",
+  "requestFramePermissions": []
+}
